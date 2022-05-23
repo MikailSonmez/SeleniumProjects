@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee7b3fa0-023e-4a06-8e37-3e965ff4c386" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_XpathCssSelectore/C01_TekrarTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_XpathCssSelectore/C02_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_XpathCssSelectore/C03_XpathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_XpathCssSelectore/C04_CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_XpathCssSelectore/C05_RelativeLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_relativeXpath/C01_TekrarTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_relativeXpath/C02_RelativeXpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,13 +51,13 @@
       <recent name="C:\Users\mikai\SELENIUM\Selenium\src\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C02_RelativeXpath">
-    <configuration name="C01_TekrarTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_webElementsLocators.C01_TekrarTesti" />
+  <component name="RunManager" selected="Application.C05_RelativeLocators">
+    <configuration name="C02_Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_XpathCssSelectore.C02_Xpath" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_webElementsLocators.*" />
+          <option name="PATTERN" value="day04_XpathCssSelectore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_webElementsLocators.C02_LoginTest" />
+    <configuration name="C03_XpathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_XpathCssSelectore.C03_XpathTest" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_webElementsLocators.*" />
+          <option name="PATTERN" value="day04_XpathCssSelectore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_RelativeXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_relativeXpath.C02_RelativeXpath" />
+    <configuration name="C04_CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_XpathCssSelectore.C04_CssSelector" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_relativeXpath.*" />
+          <option name="PATTERN" value="day04_XpathCssSelectore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_WebElementGetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_webElementsLocators.C03_WebElementGetMethods" />
+    <configuration name="C05_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_XpathCssSelectore.C05_RelativeLocators" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_webElementsLocators.*" />
+          <option name="PATTERN" value="day04_XpathCssSelectore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day05_relativeXpath.C01_TekrarTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_relativeXpath.C01_TekrarTesti" />
+    <configuration name="day04_XpathCssSelectore.C01_TekrarTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_XpathCssSelectore.C01_TekrarTesti" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_relativeXpath.*" />
+          <option name="PATTERN" value="day04_XpathCssSelectore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02_RelativeXpath" />
-        <item itemvalue="Application.day05_relativeXpath.C01_TekrarTesti" />
-        <item itemvalue="Application.C03_WebElementGetMethods" />
-        <item itemvalue="Application.C02_LoginTest" />
-        <item itemvalue="Application.C01_TekrarTesti" />
+        <item itemvalue="Application.C05_RelativeLocators" />
+        <item itemvalue="Application.C04_CssSelector" />
+        <item itemvalue="Application.C03_XpathTest" />
+        <item itemvalue="Application.C02_Xpath" />
+        <item itemvalue="Application.day04_XpathCssSelectore.C01_TekrarTesti" />
       </list>
     </recent_temporary>
   </component>
