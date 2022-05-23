@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3f654d-4862-4cc2-8315-5ff948711778" name="Changes" comment="" />
+    <list default="true" id="ab3f654d-4862-4cc2-8315-5ff948711778" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Selenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,80 +37,80 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C04_TekSayfadaFarkliTestler">
-    <configuration name="C03_FirstTestMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C05_YoutubeTesti">
+    <configuration name="C04_BestBuyAyriTestler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_Junit.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_Junit" />
-      <option name="MAIN_CLASS_NAME" value="day06_Junit.C03_FirstTestMethod" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C04_BestBuyAyriTestler" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_FirstTestMethod.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_YoutubeTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_Junit.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_Junit" />
-      <option name="MAIN_CLASS_NAME" value="day06_Junit.C03_FirstTestMethod" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_TekSayfadaFarkliTestler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06_Junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day06_Junit" />
-      <option name="MAIN_CLASS_NAME" value="day06_Junit.C04_TekSayfadaFarkliTestler" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_TekSayfadaFarkliTestler.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_YoutubeTesti.searchBoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_Junit.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_Junit" />
-      <option name="MAIN_CLASS_NAME" value="day06_Junit.C04_TekSayfadaFarkliTestler" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
+      <option name="METHOD_NAME" value="searchBoxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_TekSayfadaFarkliTestler.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_YoutubeTesti.titleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_Junit.*" />
+          <option name="PATTERN" value="day07_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_Junit" />
-      <option name="MAIN_CLASS_NAME" value="day06_Junit.C04_TekSayfadaFarkliTestler" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
+      <option name="METHOD_NAME" value="titleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_YoutubeTesti.wrongTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day07_assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day07_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
+      <option name="METHOD_NAME" value="wrongTitleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C04_TekSayfadaFarkliTestler" />
-        <item itemvalue="JUnit.C04_TekSayfadaFarkliTestler.test03" />
-        <item itemvalue="JUnit.C04_TekSayfadaFarkliTestler.test01" />
-        <item itemvalue="JUnit.C03_FirstTestMethod" />
-        <item itemvalue="JUnit.C03_FirstTestMethod.test02" />
+        <item itemvalue="JUnit.C05_YoutubeTesti" />
+        <item itemvalue="JUnit.C05_YoutubeTesti.searchBoxTest" />
+        <item itemvalue="JUnit.C05_YoutubeTesti.titleTest" />
+        <item itemvalue="JUnit.C05_YoutubeTesti.wrongTitleTest" />
+        <item itemvalue="JUnit.C04_BestBuyAyriTestler" />
       </list>
     </recent_temporary>
   </component>

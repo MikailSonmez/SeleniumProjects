@@ -1,4 +1,4 @@
-package day06_Junit;
+package day06_jUnit;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -8,7 +8,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
-import java.util.Arrays;
 
 public class C01_TekrarTesti {
     public static void main(String[] args) {

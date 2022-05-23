@@ -1,4 +1,4 @@
-package day06_Junit;
+package day06_jUnit;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
