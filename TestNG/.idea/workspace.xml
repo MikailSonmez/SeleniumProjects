@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f58e3dd3-204c-4d6c-971c-295d70346907" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f58e3dd3-204c-4d6c-971c-295d70346907" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,24 +30,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.C03_SoftAssertion.test">
-    <configuration name="C02_SoftAssertion.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="TestNG.C03_TestBaseFirstTest.test01">
+    <configuration name="C01_WindowHandle.handleWindows" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.C02_SoftAssertion" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="tests.day11.C01_WindowHandle" />
+      <option name="METHOD_NAME" value="handleWindows" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -61,16 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_SoftAssertion.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WindowHandle.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.C03_SoftAssertion" />
+      <option name="PACKAGE_NAME" value="tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="tests.day11.C01_WindowHandle" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -79,17 +73,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.test01 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_BasicAuthentication.authenticationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.test" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="tests.day10" />
+      <option name="MAIN_CLASS_NAME" value="tests.day10.C02_BasicAuthentication" />
+      <option name="METHOD_NAME" value="authenticationTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -97,17 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.test01 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_IFrame.iFrameTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.test" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="tests.day10" />
+      <option name="MAIN_CLASS_NAME" value="tests.day10.C03_IFrame" />
+      <option name="METHOD_NAME" value="iFrameTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -115,16 +109,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_TestBaseFirstTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.test" />
+      <option name="PACKAGE_NAME" value="tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="tests.day11.C03_TestBaseFirstTest" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -135,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C03_SoftAssertion.test" />
-        <item itemvalue="TestNG.C02_SoftAssertion.test01" />
-        <item itemvalue="TestNG.test.test01 (2)" />
-        <item itemvalue="TestNG.test.test01" />
-        <item itemvalue="TestNG.test.test01 (1)" />
+        <item itemvalue="TestNG.C03_TestBaseFirstTest.test01" />
+        <item itemvalue="TestNG.C01_WindowHandle.handleWindows" />
+        <item itemvalue="TestNG.C01_WindowHandle.test" />
+        <item itemvalue="TestNG.C03_IFrame.iFrameTesti" />
+        <item itemvalue="TestNG.C02_BasicAuthentication.authenticationTest" />
       </list>
     </recent_temporary>
   </component>
