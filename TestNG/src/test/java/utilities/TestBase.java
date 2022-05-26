@@ -33,7 +33,7 @@ public abstract class TestBase {
 
     @AfterClass
     public void tearDown() {
-        //  driver.close();
+         driver.close(); // buna gore kapanip acilir
     }
 
 

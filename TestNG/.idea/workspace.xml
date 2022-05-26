@@ -36,18 +36,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C03_TestBaseFirstTest.test01">
-    <configuration name="C01_WindowHandle.handleWindows" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C06_Synchronization.test01">
+    <configuration name="C04_FileDownload.isExistTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day11.*" />
+          <option name="PATTERN" value="tests.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="tests.day11.C01_WindowHandle" />
-      <option name="METHOD_NAME" value="handleWindows" />
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C04_FileDownload" />
+      <option name="METHOD_NAME" value="isExistTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -55,17 +55,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WindowHandle.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_FileUpload.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day11.*" />
+          <option name="PATTERN" value="tests.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="tests.day11.C01_WindowHandle" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C05_FileUpload" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -73,17 +73,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_BasicAuthentication.authenticationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_Synchronization.test01 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day10.*" />
+          <option name="PATTERN" value="tests.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day10" />
-      <option name="MAIN_CLASS_NAME" value="tests.day10.C02_BasicAuthentication" />
-      <option name="METHOD_NAME" value="authenticationTest" />
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -91,17 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_IFrame.iFrameTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_Synchronization.test01 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day10.*" />
+          <option name="PATTERN" value="tests.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day10" />
-      <option name="MAIN_CLASS_NAME" value="tests.day10.C03_IFrame" />
-      <option name="METHOD_NAME" value="iFrameTesti" />
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -109,16 +109,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_TestBaseFirstTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_Synchronization.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day11.*" />
+          <option name="PATTERN" value="tests.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="tests.day11.C03_TestBaseFirstTest" />
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C03_TestBaseFirstTest.test01" />
-        <item itemvalue="TestNG.C01_WindowHandle.handleWindows" />
-        <item itemvalue="TestNG.C01_WindowHandle.test" />
-        <item itemvalue="TestNG.C03_IFrame.iFrameTesti" />
-        <item itemvalue="TestNG.C02_BasicAuthentication.authenticationTest" />
+        <item itemvalue="TestNG.C06_Synchronization.test01" />
+        <item itemvalue="TestNG.C06_Synchronization.test01 (2)" />
+        <item itemvalue="TestNG.C06_Synchronization.test01 (1)" />
+        <item itemvalue="TestNG.C05_FileUpload.test01" />
+        <item itemvalue="TestNG.C04_FileDownload.isExistTest" />
       </list>
     </recent_temporary>
   </component>
