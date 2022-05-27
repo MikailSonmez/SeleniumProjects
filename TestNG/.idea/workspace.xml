@@ -36,18 +36,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C06_Synchronization.test01">
-    <configuration name="C04_FileDownload.isExistTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C05_Scrool.scroolAction">
+    <configuration name="C02_ScreenshotWebelement.nutellaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C04_FileDownload" />
-      <option name="METHOD_NAME" value="isExistTest" />
+      <option name="PACKAGE_NAME" value="tests.day15" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15.C02_ScreenshotWebelement" />
+      <option name="METHOD_NAME" value="nutellaTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -55,16 +55,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_FileUpload.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_ScreenShotKlasoru" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C05_FileUpload" />
+      <option name="PACKAGE_NAME" value="tests.day15" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15.C03_ScreenShotKlasoru" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_JsExecuter.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day15" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15.C04_JsExecuter" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -73,17 +90,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Synchronization.test01 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_Scrool.scroolAction" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="tests.day15" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15.C05_Scrool" />
+      <option name="METHOD_NAME" value="scroolAction" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -91,35 +108,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Synchronization.test01 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_Scrool.scroolJsExecutor" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_Synchronization.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day13" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.C06_Synchronization" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="tests.day15" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15.C05_Scrool" />
+      <option name="METHOD_NAME" value="scroolJsExecutor" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C06_Synchronization.test01" />
-        <item itemvalue="TestNG.C06_Synchronization.test01 (2)" />
-        <item itemvalue="TestNG.C06_Synchronization.test01 (1)" />
-        <item itemvalue="TestNG.C05_FileUpload.test01" />
-        <item itemvalue="TestNG.C04_FileDownload.isExistTest" />
+        <item itemvalue="TestNG.C05_Scrool.scroolAction" />
+        <item itemvalue="TestNG.C05_Scrool.scroolJsExecutor" />
+        <item itemvalue="TestNG.C04_JsExecuter.test01" />
+        <item itemvalue="TestNG.C03_ScreenShotKlasoru" />
+        <item itemvalue="TestNG.C02_ScreenshotWebelement.nutellaTesti" />
       </list>
     </recent_temporary>
   </component>

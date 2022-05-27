@@ -33,7 +33,8 @@ public abstract class TestBase {
 
     @AfterClass
     public void tearDown() {
-         driver.close(); // buna gore kapanip acilir
+
+        // driver.close(); // buna gore kapanip acilir
     }
 
 
@@ -43,9 +44,9 @@ public abstract class TestBase {
         TakesScreenshot tss = (TakesScreenshot) driver;
         String tarih = new SimpleDateFormat("ddMMyyyyhhmmss").format(new Date());
 
-        File allPage = new File("target//screenShot/allPage"+tarih+".jpg");
+        File tumSayfa = new File("target//screenShot/tumSayfa"+tarih+".jpg");
 
         File geciciImage = tss.getScreenshotAs(OutputType.FILE);
-        FileUtils.copyFile(geciciImage, allPage);
+        FileUtils.copyFile(geciciImage, tumSayfa);
     }
 }
