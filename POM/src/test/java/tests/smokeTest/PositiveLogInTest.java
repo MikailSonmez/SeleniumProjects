@@ -1,6 +1,7 @@
 package tests.smokeTest;
 
 import org.openqa.selenium.interactions.Actions;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -41,6 +42,11 @@ public class PositiveLogInTest {
         hotelmycampPage.userNameBox.sendKeys(ConfigReader.getProperty("HMYCValidUserName"));
         hotelmycampPage.passwordBox.sendKeys(ConfigReader.getProperty("HMYCValidPassword"));
         hotelmycampPage.wait(2);
+        hotelmycampPage.userLogInButonu.click();
+
+        Assert.assertTrue(hotelmycampPage.basariliGirisYazisiElementi.isDisplayed());
+
+        Driver.closeDriver();
 
 
     }

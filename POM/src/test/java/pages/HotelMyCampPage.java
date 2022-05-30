@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.DataProvider;
+import utilities.ConfigReader;
 import utilities.Driver;
 
 import java.io.File;
@@ -71,12 +72,13 @@ public class HotelMyCampPage {
 
 
     public void hotelMyCampLogin() {
-        Driver.getDriver().navigate().to("https://www.hotelmycamp.com");
+        Driver.getDriver().get(ConfigReader.getProperty("HMCUrl"));
         mainPageLogin.click();
         userNameBox.sendKeys("manager");
         passwordBox.sendKeys("Manager1!");
         userLogInButonu.click();
         addUserElement.click();
+
 
     }
 

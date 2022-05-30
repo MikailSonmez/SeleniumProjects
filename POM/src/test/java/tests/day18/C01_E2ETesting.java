@@ -1,4 +1,4 @@
-package tests.hotel;
+package tests.day18;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -10,7 +10,7 @@ import org.testng.asserts.SoftAssert;
 import pages.HotelMyCampPage;
 import utilities.Driver;
 
-public class AddUser {
+public class C01_E2ETesting {
 
     HotelMyCampPage hotelmycampPage = new HotelMyCampPage();
     protected SoftAssert softAssert = new SoftAssert();
@@ -21,7 +21,7 @@ public class AddUser {
     }
 
     @Test
-    public void test01() throws InterruptedException {
+    public void createHotel() throws InterruptedException {
         hotelmycampPage.testData();
         Actions actions = new Actions(Driver.getDriver());
 
