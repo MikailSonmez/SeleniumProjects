@@ -61,6 +61,23 @@ public class HotelMyCampPage {
     @FindBy(xpath ="//span[@for='Email']")
     public WebElement useremailincorrect;
 
+    @FindBy(xpath = "//span[text()='Hotel Management']")
+    public WebElement hotelManagementLinki;
+
+    @FindBy(xpath = "//a[@herf='/admin/HotelAdmin']")
+    public WebElement hotelListLinki;
+
+    @FindBy(xpath = "//a[@class='btn btn-circle btn-default']")
+    public WebElement addHotelLinki;
+
+    @FindBy(xpath = "//input[@id='Code']")
+    public WebElement addHotelCodeKutusu;
+
+    @FindBy (xpath = "//select[@id'IDGroup']")
+    public WebElement addHotelDropdown;
+
+    @FindBy(xpath = "//button[@id='btnSubmit']")
+    public WebElement addHotelSaveButonu;
 
     public void wait(int saniye){
         try {
@@ -77,7 +94,7 @@ public class HotelMyCampPage {
         userNameBox.sendKeys("manager");
         passwordBox.sendKeys("Manager1!");
         userLogInButonu.click();
-        addUserElement.click();
+        // addUserElement.click();
 
 
     }
