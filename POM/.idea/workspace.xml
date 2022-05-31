@@ -34,18 +34,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C03_Webtables">
-    <configuration name="C02_Hotel.createHotell (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mikai\SELENIUM\POM\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C02_WebtableDemoqa.demoqaTest">
+    <configuration name="C01_WebtableDinamikLocate.hucreGetirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C02_Hotel" />
-      <option name="METHOD_NAME" value="createHotell" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamikLocate" />
+      <option name="METHOD_NAME" value="hucreGetirTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -53,17 +58,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Hotel.createHotell" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebtableDinamikLocate.satirYazdirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C02_Hotel" />
-      <option name="METHOD_NAME" value="createHotell" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamikLocate" />
+      <option name="METHOD_NAME" value="satirYazdirTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -71,34 +76,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Webtables" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebtableDinamikLocate.sutunYazdirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C03_Webtables" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_Webtables.table (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C03_Webtables" />
-      <option name="METHOD_NAME" value="table" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamikLocate" />
+      <option name="METHOD_NAME" value="sutunYazdirTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,17 +94,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Webtables.table" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_WebtableDemoqa.demoqaTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
+          <option name="PATTERN" value="tests.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C03_Webtables" />
-      <option name="METHOD_NAME" value="table" />
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_WebtableDemoqa" />
+      <option name="METHOD_NAME" value="demoqaTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_WebtableDemoqa.demoqaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day19" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_WebtableDemoqa" />
+      <option name="METHOD_NAME" value="demoqaTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -126,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C03_Webtables" />
-        <item itemvalue="TestNG.C03_Webtables.table" />
-        <item itemvalue="TestNG.C03_Webtables.table (1)" />
-        <item itemvalue="TestNG.C02_Hotel.createHotell (3)" />
-        <item itemvalue="TestNG.C02_Hotel.createHotell" />
+        <item itemvalue="TestNG.C02_WebtableDemoqa.demoqaTest" />
+        <item itemvalue="TestNG.C02_WebtableDemoqa.demoqaTest (1)" />
+        <item itemvalue="TestNG.C01_WebtableDinamikLocate.sutunYazdirTesti" />
+        <item itemvalue="TestNG.C01_WebtableDinamikLocate.hucreGetirTesti" />
+        <item itemvalue="TestNG.C01_WebtableDinamikLocate.satirYazdirTesti" />
       </list>
     </recent_temporary>
   </component>

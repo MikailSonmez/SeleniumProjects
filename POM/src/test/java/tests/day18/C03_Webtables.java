@@ -19,7 +19,7 @@ public class C03_Webtables {
         hotelMyCampPage.hotelMyCampLogin();
     }
 
-    @Test
+    @Test (dependsOnMethods = "loginT")
     public void table(){
 
         hmcWebTablePage=new HMCWebTablePage();
@@ -42,8 +42,20 @@ public class C03_Webtables {
         System.out.println("body'deki data sayisi : " + bodyTumDataList.size());
     }
 
-    @Test
+    @Test (dependsOnMethods = "loginT")
     public void printRows(){
+        //1-
+        hmcWebTablePage=new HMCWebTablePage();
+        System.out.println(hmcWebTablePage.satirlarListesi.size());
+
+        //2-
+        List<WebElement> satirlarWebelementListesi=hmcWebTablePage.satirlarListesi;
+        for (WebElement each:satirlarWebelementListesi
+             ) {
+            System.out.println(each.getText());
+        }
+        //3-
+        System.out.println("4. satir : " + satirlarWebelementListesi.get(3).getText());
 
     }
 
