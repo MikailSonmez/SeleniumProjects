@@ -39,18 +39,18 @@
       <recent name="C:\Users\mikai\SELENIUM\POM\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C02_WebtableDemoqa.demoqaTest">
-    <configuration name="C01_WebtableDinamikLocate.hucreGetirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C01_WindowHandleResuableMethods.windowHandlereusableTest">
+    <configuration name="C01_WindowHandleResuableMethods.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
+          <option name="PATTERN" value="tests.day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamikLocate" />
-      <option name="METHOD_NAME" value="hucreGetirTesti" />
+      <option name="PACKAGE_NAME" value="tests.day21" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21.C01_WindowHandleResuableMethods" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -58,17 +58,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WebtableDinamikLocate.satirYazdirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WindowHandleResuableMethods.windowHandlereusableTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
+          <option name="PATTERN" value="tests.day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamikLocate" />
-      <option name="METHOD_NAME" value="satirYazdirTesti" />
+      <option name="PACKAGE_NAME" value="tests.day21" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21.C01_WindowHandleResuableMethods" />
+      <option name="METHOD_NAME" value="windowHandlereusableTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,54 +76,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WebtableDinamikLocate.sutunYazdirTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/mikai/SELENIUM/POM/src/belirlenenGruplariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebtableDinamikLocate" />
-      <option name="METHOD_NAME" value="sutunYazdirTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenGruplariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WebtableDemoqa.demoqaTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/mikai/SELENIUM/POM/src/belirlenenPackageleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_WebtableDemoqa" />
-      <option name="METHOD_NAME" value="demoqaTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenPackageleriCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WebtableDemoqa.demoqaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/mikai/SELENIUM/POM/src/belirliTestMehodlariniCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_WebtableDemoqa" />
-      <option name="METHOD_NAME" value="demoqaTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliTestMehodlariniCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -132,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C02_WebtableDemoqa.demoqaTest" />
-        <item itemvalue="TestNG.C02_WebtableDemoqa.demoqaTest (1)" />
-        <item itemvalue="TestNG.C01_WebtableDinamikLocate.sutunYazdirTesti" />
-        <item itemvalue="TestNG.C01_WebtableDinamikLocate.hucreGetirTesti" />
-        <item itemvalue="TestNG.C01_WebtableDinamikLocate.satirYazdirTesti" />
+        <item itemvalue="TestNG.C01_WindowHandleResuableMethods.windowHandlereusableTest" />
+        <item itemvalue="TestNG.C01_WindowHandleResuableMethods.test01" />
+        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/belirlenenGruplariCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/belirliTestMehodlariniCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/belirlenenPackageleriCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>

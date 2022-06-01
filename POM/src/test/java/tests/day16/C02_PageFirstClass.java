@@ -26,7 +26,7 @@ public class C02_PageFirstClass {
         Assert.assertTrue(actualSonucStr.contains("Nutella"));
 
     }
-    @Test
+    @Test(groups = {"miniRegression","smoke"})
     public void test02(){
         Driver.getDriver().get("https://www.amazon.com");
         AmazonPage amazonPage = new AmazonPage();

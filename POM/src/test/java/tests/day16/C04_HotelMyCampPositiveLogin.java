@@ -14,7 +14,7 @@ public class C04_HotelMyCampPositiveLogin {
     //    Degerleri girildiginde sayfaya basarili sekilde girilebildigini test et
     HotelMyCampPage hotelMyCampPage = new HotelMyCampPage();
 
-    @Test
+    @Test (groups = {"miniRegression", "smoke"})
     public void pozitiveLoginTest() {
         //1 ) Bir Class olustur : PositiveTest
         // https://www. hotelmycamp.com/ adresine git

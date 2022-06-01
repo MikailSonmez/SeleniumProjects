@@ -16,7 +16,7 @@ public class C01_ReadExcel {
     @Test
     public void test01() throws IOException {
 
-        String path="src/test/java/resources/yerine gelcek excel.xlsx";
+        String path="src/test/java/resources/ulkeler.xlsx";
         FileInputStream fis = new FileInputStream(path);
 
         // biz FIS ile okudugumuz excel dosyasini projemiz icersinde kullanabilmek icin

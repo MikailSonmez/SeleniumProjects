@@ -5,13 +5,11 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
-public class ReusableMethods {
+public class ReusableMethodsExcel {
     // bir method olusturalim
     // dosya yolu, sayfa ismi satir ve hucre indexini verince hucre bilgisini yazdirsin
 

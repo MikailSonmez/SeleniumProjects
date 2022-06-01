@@ -12,7 +12,7 @@ public class C03_FaceBookLogin {
     //3- Faker class’ini kullanarak email ve sifre degerlerini yazdirip, giris butonuna basin
     //4- Basarili giris yapilamadigini test edin
     FacebookPage facebookPage = new FacebookPage();
-    @Test
+    @Test (groups = {"miniRegression", "regression"})
     public void test01() throws InterruptedException {
         Driver.getDriver().get("https://www.facebook.com");
         // facebookPage.facebookCookies.click();

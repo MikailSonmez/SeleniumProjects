@@ -17,7 +17,7 @@ public class C06_WriteExcel {
         // 3. satirdaki ulkenin nufusunu 1000000 yapalim
 
         // 1- dosyaya ulasalim
-        String path="src/test/java/resources/yerine gelcek excel.xlsx";
+        String path="src/test/java/resources/ulkeler.xlsx";
         FileInputStream fis = new FileInputStream(path);
         // 2- class'da calismak icin dosyanin bir kopyasi olan workbook olusturalim
         Workbook workbook= WorkbookFactory.create(fis);

@@ -15,7 +15,7 @@ public class C02_ReadExcel {
 
         // ulkeler excelinin 3. satirini yazdirin
 
-        String path="src/test/java/resources/yerine gelcek excel.xlsx";
+        String path="src/test/java/resources/ulkeler.xlsx";
         FileInputStream fis = new FileInputStream(path);
 
         Workbook workbook= WorkbookFactory.create(fis);

@@ -16,7 +16,7 @@ public class C04_SatirSayisi {
         // ulkeler excelindeki Sayfa1 ve Sayfa2'deki satir sayilarini
         // ve kullanilan satir sayilarini bulun
 
-        String path="src/test/java/resources/yerine gelcek excel.xlsx";
+        String path="src/test/java/resources/ulkeler.xlsx";
         FileInputStream fis=new FileInputStream(path);
         Workbook workbook= WorkbookFactory.create(fis);
 
