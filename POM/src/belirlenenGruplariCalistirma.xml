@@ -18,10 +18,10 @@
             </run>
         </groups>
         <packages>
-            <package name="test.day16"></package>
-            <package name="test.day17"></package>
-            <package name="test.day18"></package>
-            <package name="test.day19"></package>
+            <package name="tests.day16"></package>
+            <package name="tests.day17"></package>
+            <package name="tests.day18"></package>
+            <package name="tests.day19"></package>
         </packages>
     </test>
 </suite>

@@ -36,10 +36,29 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mikai\SELENIUM\POM\src\test\java\utilities" />
       <recent name="C:\Users\mikai\SELENIUM\POM\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C01_WindowHandleResuableMethods.windowHandlereusableTest">
+  <component name="RunManager" selected="TestNG.C:/Users/mikai/SELENIUM/POM/src/raporCalistirma.xml">
+    <configuration name="C01_TestNGReports.windowHandlereusableTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22.C01_TestNGReports" />
+      <option name="METHOD_NAME" value="windowHandlereusableTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_WindowHandleResuableMethods.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
@@ -76,29 +95,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/mikai/SELENIUM/POM/src/belirlenenGruplariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_FacebookTesti.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenGruplariCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22.C02_FacebookTesti" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/mikai/SELENIUM/POM/src/belirlenenPackageleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/mikai/SELENIUM/POM/src/raporCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenPackageleriCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/mikai/SELENIUM/POM/src/belirliTestMehodlariniCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliTestMehodlariniCalistirma.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/raporCalistirma.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -108,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/raporCalistirma.xml" />
+        <item itemvalue="TestNG.C02_FacebookTesti.test01" />
+        <item itemvalue="TestNG.C01_TestNGReports.windowHandlereusableTest" />
         <item itemvalue="TestNG.C01_WindowHandleResuableMethods.windowHandlereusableTest" />
         <item itemvalue="TestNG.C01_WindowHandleResuableMethods.test01" />
-        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/belirlenenGruplariCalistirma.xml" />
-        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/belirliTestMehodlariniCalistirma.xml" />
-        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/belirlenenPackageleriCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>
