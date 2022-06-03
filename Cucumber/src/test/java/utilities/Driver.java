@@ -7,6 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.opera.OperaDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
+import java.sql.*;
 import java.time.Duration;
 
 public class Driver {
@@ -48,7 +49,7 @@ public class Driver {
 
         }
 
-        // driver.manage().window().maximize();
+        driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
         return driver;
     }
@@ -60,4 +61,16 @@ public class Driver {
         }
 
     }
+
+    public void mysqlconnecter() throws SQLException {
+        Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/?user=root,user","root","1234");
+        Statement statement = connection.createStatement();
+        ResultSet resultSet = statement.executeQuery("select * from people") ;
+        while (resultSet.next()){
+            System.out.println(resultSet.getString("name"));
+        }
+    }
+
+
+
 }
