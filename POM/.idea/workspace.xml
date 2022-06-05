@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91a5ff70-f26c-45c5-9c90-c332921c6acf" name="Changes" comment="" />
+    <list default="true" id="91a5ff70-f26c-45c5-9c90-c332921c6acf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/runners/ParalelTestRunner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/runners/ParalelTestrunner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber/src/test/java/stepdefinitions/HotelMyCampStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/stepdefinitions/HotelMyCampStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber/src/test/resources/features/US1001_amazon_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/src/test/resources/features/US1001_amazon_search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber/src/test/resources/features/US1003_ParametreKullanimi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/src/test/resources/features/US1003_ParametreKullanimi.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +49,7 @@
       <recent name="C:\Users\mikai\SELENIUM\POM\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/mikai/SELENIUM/POM/src/raporCalistirma.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/mikai/SELENIUM/POM/src/paralelClassCalistirma.xml">
     <configuration name="C01_TestNGReports.windowHandlereusableTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
@@ -52,24 +61,6 @@
       <option name="PACKAGE_NAME" value="tests.day22" />
       <option name="MAIN_CLASS_NAME" value="tests.day22.C01_TestNGReports" />
       <option name="METHOD_NAME" value="windowHandlereusableTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_WindowHandleResuableMethods.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day21" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21.C01_WindowHandleResuableMethods" />
-      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -113,6 +104,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/mikai/SELENIUM/POM/src/paralelClassCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/paralelClassCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/mikai/SELENIUM/POM/src/raporCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/raporCalistirma.xml" />
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/paralelClassCalistirma.xml" />
         <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/raporCalistirma.xml" />
         <item itemvalue="TestNG.C02_FacebookTesti.test01" />
         <item itemvalue="TestNG.C01_TestNGReports.windowHandlereusableTest" />
         <item itemvalue="TestNG.C01_WindowHandleResuableMethods.windowHandlereusableTest" />
-        <item itemvalue="TestNG.C01_WindowHandleResuableMethods.test01" />
       </list>
     </recent_temporary>
   </component>
