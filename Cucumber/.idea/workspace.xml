@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b445476e-6f8e-4f75-93a8-54ce45b9a807" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ParalelTestRunner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ParalelTestrunner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AutomationPracticePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DemoGuruPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/AutomationPracticeStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/DemoGuruStepdefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1012_DemoGuruWebTable.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1013_AutomationPractice.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/HotelMyCampStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HotelMyCampStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1001_amazon_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1001_amazon_search.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1003_ParametreKullanimi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1003_ParametreKullanimi.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POM/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../POM/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,9 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2A15sD80ICApkbkNqfQzpUDxiqs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
