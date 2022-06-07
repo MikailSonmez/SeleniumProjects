@@ -119,6 +119,14 @@
                     <executable>C:\Program Files\Java\jdk-11.0.13\bin\javac</executable>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
 
         </plugins>
     </build>

@@ -23,8 +23,11 @@ public class AutomationPracticeStepDefinition {
     }
     @Then("error mesajinin “Invalid email address”  oldugunu dogrulayin")
     public void error_mesajinin_invalid_email_address_oldugunu_dogrulayin() {
-        Assert.assertTrue(automationPracticePage.invalitEmailYazisiElement.isDisplayed());
+        //Assert.assertTrue(automationPracticePage.invalitEmailYazisiElement.isDisplayed());
+        String actualHataYazisi=automationPracticePage.invalitEmailYazisiElement.getText();
+        String expectedHataYazisi=ConfigReader.getProperty("AutPracHataYazisi");
 
+        Assert.assertEquals(expectedHataYazisi,actualHataYazisi);
     }
 
     @Given("kullanici {string} gider")
