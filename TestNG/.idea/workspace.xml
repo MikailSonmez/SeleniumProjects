@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f58e3dd3-204c-4d6c-971c-295d70346907" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/pages/DemoQaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/stepdefinitions/DemoQaStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/resources/features/US1014_DemoDinamikElementler.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucumber/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucumber/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucumber/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucumber/src/test/java/stepdefinitions/AutomationPracticeStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/stepdefinitions/AutomationPracticeStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

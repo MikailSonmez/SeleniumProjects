@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a5ff70-f26c-45c5-9c90-c332921c6acf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/pages/AutomationPracticePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/pages/DemoGuruPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/stepdefinitions/AutomationPracticeStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/java/stepdefinitions/DemoGuruStepdefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/resources/features/US1012_DemoGuruWebTable.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber/src/test/resources/features/US1013_AutomationPractice.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
