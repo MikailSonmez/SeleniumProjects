@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee7b3fa0-023e-4a06-8e37-3e965ff4c386" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.javaproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.javaproject/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.javaproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.javaproject/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee7b3fa0-023e-4a06-8e37-3e965ff4c386" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +48,13 @@
       <recent name="C:\Users\mikai\SELENIUM\Selenium\src\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task03">
-    <configuration name="Hw01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Hw01" />
+  <component name="RunManager" selected="Application.F01">
+    <configuration name="F01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FreeStudy.F01" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="FreeStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Hw02" />
+    <configuration name="Hw01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Hw01" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F01" />
         <item itemvalue="Application.Task03" />
         <item itemvalue="Application.Task02" />
         <item itemvalue="Application.Task01" />
         <item itemvalue="Application.Hw01" />
-        <item itemvalue="Application.Hw02" />
       </list>
     </recent_temporary>
   </component>
