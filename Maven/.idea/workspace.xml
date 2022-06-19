@@ -32,83 +32,83 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mikai/SELENIUM/Maven&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C05_YoutubeTesti">
-    <configuration name="C04_BestBuyAyriTestler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.F05.test06">
+    <configuration name="F03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_assertions.*" />
+          <option name="PATTERN" value="freeStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day07_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day07_assertions.C04_BestBuyAyriTestler" />
+      <option name="PACKAGE_NAME" value="freeStudy" />
+      <option name="MAIN_CLASS_NAME" value="freeStudy.F03" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_YoutubeTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="F04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_assertions.*" />
+          <option name="PATTERN" value="freeStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day07_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
+      <option name="PACKAGE_NAME" value="freeStudy" />
+      <option name="MAIN_CLASS_NAME" value="freeStudy.F04" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_YoutubeTesti.searchBoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="F04.testUserPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_assertions.*" />
+          <option name="PATTERN" value="freeStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day07_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
-      <option name="METHOD_NAME" value="searchBoxTest" />
+      <option name="PACKAGE_NAME" value="freeStudy" />
+      <option name="MAIN_CLASS_NAME" value="freeStudy.F04" />
+      <option name="METHOD_NAME" value="testUserPassword" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_YoutubeTesti.titleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="F05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_assertions.*" />
+          <option name="PATTERN" value="freeStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day07_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
-      <option name="METHOD_NAME" value="titleTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="freeStudy" />
+      <option name="MAIN_CLASS_NAME" value="freeStudy.F05" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_YoutubeTesti.wrongTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="F05.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_assertions.*" />
+          <option name="PATTERN" value="freeStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day07_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day07_assertions.C05_YoutubeTesti" />
-      <option name="METHOD_NAME" value="wrongTitleTest" />
+      <option name="PACKAGE_NAME" value="freeStudy" />
+      <option name="MAIN_CLASS_NAME" value="freeStudy.F05" />
+      <option name="METHOD_NAME" value="test06" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C05_YoutubeTesti" />
-        <item itemvalue="JUnit.C05_YoutubeTesti.searchBoxTest" />
-        <item itemvalue="JUnit.C05_YoutubeTesti.titleTest" />
-        <item itemvalue="JUnit.C05_YoutubeTesti.wrongTitleTest" />
-        <item itemvalue="JUnit.C04_BestBuyAyriTestler" />
+        <item itemvalue="JUnit.F05.test06" />
+        <item itemvalue="JUnit.F05" />
+        <item itemvalue="JUnit.F04" />
+        <item itemvalue="JUnit.F04.testUserPassword" />
+        <item itemvalue="JUnit.F03" />
       </list>
     </recent_temporary>
   </component>
