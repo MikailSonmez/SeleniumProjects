@@ -36,26 +36,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.MehmetEmin.test">
-    <configuration name="Guru99Bank.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.self_study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.self_study" />
-      <option name="MAIN_CLASS_NAME" value="tests.self_study.Guru99Bank" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuruSelenium" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ZoomMehmetHoca">
+    <configuration name="Study01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +46,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.selfStudy" />
-      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.GuruSelenium" />
+      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.Study01" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -72,7 +54,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HepsiBurada" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Youtube" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -81,7 +63,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.selfStudy" />
-      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.HepsiBurada" />
+      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.Youtube" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -89,7 +71,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HepsiBurada.searchBox" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Youtube.imageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +80,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.selfStudy" />
-      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.HepsiBurada" />
-      <option name="METHOD_NAME" value="searchBox" />
+      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.Youtube" />
+      <option name="METHOD_NAME" value="imageTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -107,7 +89,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MehmetEmin.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Youtube.titleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -116,9 +98,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.selfStudy" />
-      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.MehmetEmin" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.Youtube" />
+      <option name="METHOD_NAME" value="titleTest" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZoomMehmetHoca" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.selfStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.selfStudy" />
+      <option name="MAIN_CLASS_NAME" value="tests.selfStudy.ZoomMehmetHoca" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MehmetEmin.test" />
-        <item itemvalue="TestNG.HepsiBurada.searchBox" />
-        <item itemvalue="TestNG.HepsiBurada" />
-        <item itemvalue="TestNG.GuruSelenium" />
-        <item itemvalue="TestNG.Guru99Bank.test01" />
+        <item itemvalue="TestNG.ZoomMehmetHoca" />
+        <item itemvalue="TestNG.Youtube.imageTest" />
+        <item itemvalue="TestNG.Youtube" />
+        <item itemvalue="TestNG.Youtube.titleTest" />
+        <item itemvalue="TestNG.Study01" />
       </list>
     </recent_temporary>
   </component>

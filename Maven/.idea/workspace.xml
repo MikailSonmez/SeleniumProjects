@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3f654d-4862-4cc2-8315-5ff948711778" name="Changes" comment="" />
+    <list default="true" id="ab3f654d-4862-4cc2-8315-5ff948711778" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../POM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POM/src/test/java/resources/yerine gelcek excel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Pazar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Pazar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Study01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Study01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Youtube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Youtube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/ZoomMehmetHoca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/ZoomMehmetHoca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.javaproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.javaproject/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,18 +51,16 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mikai/SELENIUM/Maven&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.F05.test06">
-    <configuration name="F03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.C01">
+    <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.C01" />
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="freeStudy.*" />
+          <option name="PATTERN" value="study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="freeStudy" />
-      <option name="MAIN_CLASS_NAME" value="freeStudy.F03" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01" />
         <item itemvalue="JUnit.F05.test06" />
         <item itemvalue="JUnit.F05" />
         <item itemvalue="JUnit.F04" />
         <item itemvalue="JUnit.F04.testUserPassword" />
-        <item itemvalue="JUnit.F03" />
       </list>
     </recent_temporary>
   </component>

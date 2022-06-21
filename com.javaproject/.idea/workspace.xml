@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7443ae0e-915a-44b7-93a1-e25029294ad7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POM/src/test/java/resources/yerine gelcek excel.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Pazar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Pazar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Study01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Study01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Youtube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Youtube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/ZoomMehmetHoca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/ZoomMehmetHoca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

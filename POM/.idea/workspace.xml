@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a5ff70-f26c-45c5-9c90-c332921c6acf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/src/test/java/study/C01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MQ9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/MouseActions3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Pazar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Pazar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Study01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Study01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Youtube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/Youtube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/ZoomMehmetHoca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG/src/test/java/tests/selfStudy/ZoomMehmetHoca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.javaproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.javaproject/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +55,42 @@
       <recent name="C:\Users\mikai\SELENIUM\POM\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C02_DataProviderNegatifLogintesti.yanlisSifreUsernameTesti">
+  <component name="RunManager" selected="TestNG.AddUser.test01">
+    <configuration name="AddUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.hotel" />
+      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddUser.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.hotel" />
+      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_DataProvider.amazonSearch" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM" />
       <extension name="coverage">
@@ -92,33 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/mikai/SELENIUM/POM/src/cokluCalistirmaSirali.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/cokluCalistirmaSirali.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/mikai/SELENIUM/POM/src/paralelClassCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/paralelClassCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddUser.test01" />
+        <item itemvalue="TestNG.AddUser" />
         <item itemvalue="TestNG.C02_DataProviderNegatifLogintesti.yanlisSifreUsernameTesti" />
         <item itemvalue="TestNG.C01_DataProvider.amazonSearch" />
         <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/cokluCalistirmaCrossBrowser.xml" />
-        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/cokluCalistirmaSirali.xml" />
-        <item itemvalue="TestNG.C:/Users/mikai/SELENIUM/POM/src/paralelClassCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>
